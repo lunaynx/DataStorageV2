@@ -91,11 +91,6 @@ hash = "2807dcd5529b12aa3b422651810801442c39cba10834c4f00f4980e2a91eae0a"
 metafile = true
 
 [[files]]
-file = "mods/hypixelautotip.pw.toml"
-hash = "6800ad811335a1518357b8a35788515d7a55818dcb3aa27320d32d1e04c5402b"
-metafile = true
-
-[[files]]
 file = "mods/hytils.pw.toml"
 hash = "ff980c21c1665d6409b00d3b3e48085fdb78ba937792d841fb9fc5ab913164a3"
 metafile = true
